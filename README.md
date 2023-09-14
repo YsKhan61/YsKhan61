@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YsKhan61
-- 👀 I’m interested in Unity3D game development
-- 🌱 I’m currently learning Unity3D game development
-- 💞️ I’m looking for some internship training program through which I can work as well as learn new things.
+- 👀 I’m interested in VR development, graphics programming etc.
+- 🌱 I’m currently learning Unity3D game engine deeply.
+- 💞️ Deep learner
 - 📫 My email is yskhan61@gmail.com
 
 <!---
