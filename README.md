@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YsKhan61
 - 👀 I’m interested in VR development, graphics programming etc.
-- 🌱 I’m currently learning Unity3D game engine deeply.
+- 🌱 I’m currently learning Unity3D game engine, c#, c++, DSA, Unity APIs and Libraries, HLSL, SDKs, Linear Algebra, Calculus.
 - 💞️ Deep learner
 - 📫 My email is yskhan61@gmail.com
 
