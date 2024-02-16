@@ -4,6 +4,7 @@
 - 💞️ Deep learner
 - 📫 My email is yskhan61@gmail.com
 - My website is https://www.yashsadhukhan.com/
+- My Youtube is https://www.youtube.com/channel/UCag9ziqPzd3ZAugXS06-eqQ
 
 <!---
 YsKhan61/YsKhan61 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
