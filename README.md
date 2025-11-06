@@ -1,55 +1,68 @@
-# 👋 Hi, I'm Yash Sadhukhan
+# 👋 Hi, I'm **Yash Sadhukhan**
 
-🎮 **Unity & C# Gameplay Programmer | Multiplayer | Best Code Practices (SOLID and Design Patterns) | VR | DOTS | Linear Algebra | Shader Enthusiast |**
+🎮 **Unity & C# Gameplay Programmer**  
+💡 _Multiplayer | VR | DOTS | Shaders | Linear Algebra | SOLID & Design Patterns Enthusiast_
 
-I’m a curious builder at heart — with a deep love for mathematics, physics, and computer science. What excites me most is using simulation and visualization to make sense of complex systems — whether that’s the universe itself or a fun little VR project. 🎮✨
-My journey has been shaped by a mix of passions — from gaming and streaming to astrophysics and music — and all of them find their way into how I think and create.
+---
 
-## 🧠 Core Expertise
-- 🧩 **Gameplay Programming** — Scalable mechanics, AI state machines, event systems  
-- 🌐 **Multiplayer Systems** — Unity Netcode, Relay, Lobby, Authentication  
-- ⚙️ **Performance Engineering** — DOTS, Burst, Jobs, Object Pooling, Profiling  
-- 🎨 **Graphics & Shaders** — Shader Graph, HLSL, URP Effects 
-- 🧱 **Architecture & Patterns** — SOLID Principles, Factory, Strategy, Observer, MVC, Dependency Injection, Decorator etc.
-- 🧮 **Mathematics for Games** — Linear algebra, vector transformations, physics optimization
+### 🧠 About Me
+I’m a curious builder with a deep love for **mathematics, physics, and computer science**.  
+What excites me most is **simulation and visualization** — using code to make sense of complex systems, whether that’s **the universe itself** or a **VR experience** built for fun.  
 
+My journey combines multiple passions — **gaming, astrophysics, art, and music** — all feeding into how I design, code, and think.
+
+---
+
+## ⚙️ Core Expertise
+| Area | Highlights |
+|------|-------------|
+| 🧩 **Gameplay Programming** | Scalable mechanics, AI state machines, event-driven systems |
+| 🌐 **Multiplayer Systems** | Unity Netcode, Relay, Lobby, Authentication |
+| ⚙️ **Performance Engineering** | DOTS, Burst, Jobs, Object Pooling, Profiling |
+| 🎨 **Graphics & Shaders** | Shader Graph, HLSL, URP/VFX, stylized rendering |
+| 🧱 **Architecture & Patterns** | SOLID, Factory, Strategy, Observer, MVC, Dependency Injection, Decorator |
+| 🧮 **Math & Physics** | Linear algebra, vector transformations, rigidbody optimization |
+
+---
 
 ## 🚀 Highlight Projects
+
 | Project | Description | Tech |
 |----------|--------------|------|
-| 🪐 **Cosmic Shore (Froglet Games)** | A large-scale space simulation featuring DOTS entities, multiplayer, and refraction shaders. | DOTS, Netcode, Shader Graph, UniTask |
-| 🤝 **Rangers (Personal Project)** | Multiplayer arena prototype built with Unity Relay + Lobby + NGO | Netcode, UGS, Async Programming |
-| 🧠 **Educational VR Simulations** | Real-world simulations in VR (driving, welding, bow-fishing, chemistry experiments) | VR SDKs, BNG Framework, Obi, Meta SDK |
+| 🪐 **Cosmic Shore (Froglet Games)** | Large-scale space simulation featuring DOTS entities, multiplayer, and refraction shaders. | DOTS, Netcode, Shader Graph, UniTask |
+| 🤝 **Rangers (Personal Project)** | Multiplayer arena prototype built using Unity Relay + Lobby + NGO. | Netcode, UGS, Async Programming |
+| 🧠 **Educational VR Simulations** | Real-world VR simulations (driving, welding, bow-fishing, chemistry experiments). | VR SDKs, BNG Framework, Obi, Meta SDK |
 
+---
 
-## 🧩 Current Learning Path
-- Data-Oriented Tech Stack (DOTS/ECS)
-- Advanced Shader Programming (HLSL)
-- Unity Multiplayer & Matchmaking Systems
-- Engine Architecture and Design Patterns
+## 🔭 Currently Learning
+- Unity DOTS / ECS for large-scale performance  
+- Advanced Shader Programming (HLSL)  
+- Multiplayer Systems & Matchmaking Architectures  
+- Engine Architecture and Software Design Patterns  
 
+---
 
 ## 🌍 Vision
+To build systems that merge **creativity, performance, and engineering elegance** — whether for **Froglet’s next-gen titles** or future collaborations with visionary studios like **Metacore** or **Urban Games**.
 
-- I aim to build systems that blend **creativity, performance, and engineering elegance** — whether it’s for **Froglet’s next-gen titles** or future collaborations with global studios like **Metacore** or **Urban Games**.
+---
 
+## 🌟 What I Value
+- 🧹 Clean, maintainable code  
+- 🏗️ Robust, scalable architectures  
+- 🚀 Teams that learn, iterate, and innovate  
 
-🌟 What I’m Looking For
+Whether it’s **ed-tech** or **large-scale game development**, my mission is to build systems that are **fun, meaningful, and enduring**.
 
-- I’m drawn to teams that thrive at the intersection of innovation, creativity, and technical excellence. My ideal environment is one where:
-  - Clean code and design patterns are the norm 🧹
-  - Robust architectures are valued 🏗️
-  - People push boundaries and keep learning 🚀
-- Whether it’s ed-tech or large-scale game development, I want to build systems that are not only fun to play with, but meaningful.
+---
 
+## 📬 Connect With Me
+- 📧 **Email:** [yskhan61@gmail.com](mailto:yskhan61@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/yskhan61](https://www.linkedin.com/in/yskhan61/)  
+- 🧾 **Resume:** [Download Here](https://drive.google.com/file/d/1M_XxqoH9Y2Ylh2zvsaV8_orP74RHXRWJ/view?usp=sharing)  
+- 📱 **Contact:** +91 79807 25509  
 
-📬 Connect With Me
+---
 
-- 📧 Email: yskhan61@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/yskhan61/)  
-- 🧾 [Resume](https://www.linkedin.com/in/yskhan61/overlay/1738517706054/single-media-viewer?type=DOCUMENT&profileId=ACoAACSQOjoBxglX-a8HgUAy4qKHR0VHNktanY0&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BbLsQfaopQ1OFLYeRUWcMWA%3D%3D)
-- 📱 Contact: +91 7980725509
-
-
-🔭 Conclusion
-- I want to make meaningful contributions at the intersection of learning and entertainment, while staying open to every new opportunity to grow, explore, and learn.
+⭐ _“Turning ideas into immersive systems — one frame at a time.”_
